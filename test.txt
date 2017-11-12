@@ -1,1 +1,1 @@
-This is text file for rolling updates
+This is text file for rolling updates.
