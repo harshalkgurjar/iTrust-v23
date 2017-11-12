@@ -10,7 +10,7 @@
 <%@include file="/global.jsp" %>
 
 <%
-pageTitle = "iTrust - Rolling";
+pageTitle = "iTrust-Rolling Updates";
 %>
 <%
 String remoteAddr = request.getRemoteAddr();
